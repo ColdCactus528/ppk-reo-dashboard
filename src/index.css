@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+@theme {
+  --color-eco-bg:     #F4F6F4;
+  --color-eco-card:   #FFFFFF;
+  --color-eco-text:   #2D2F2E;
+  --color-eco-mute:   #6B7280;
+  --color-eco-green:  #92C7A3;
+  --color-eco-teal:   #7CC6C4;
+  --color-eco-blue:   #9FC9EE;
+  --color-eco-yellow: #F4E3A1;
+  --color-eco-red:    #D99A9A;
+  --color-eco-border: #E5E7EB;
+}
+
+html, body, #root { height: 100%; }
